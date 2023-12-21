@@ -5,10 +5,50 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Domain.Enums
-{ 
+{
 
-   
-   
+
+    public enum enumPagesID
+    {
+        Nationalities,
+        EmpStatus,
+        Stages,
+        StageType,
+        Branchs,
+        Edarat,
+        Related,
+        RelatedGov,
+        EmpFlags,
+        Countries,
+        LenderGeha,
+        Subjects,
+        SuperVisorJobs,
+        JobTypes,
+        JobsSetting,
+        Qualifications,
+        QualificationEntities,
+        QualificationTypes,
+        Sex,
+        Religion,
+        MartStat,
+        //---------------------------
+        Degrees,
+        HireLaws,
+        HireTypes,
+        Jobs,
+        Grades,
+        BranchsBirth,
+        EstkakTarqee,
+        PrivateStages,
+        PrivateRelated,
+        TarqeeReasons,
+        TarqeeCycles
+
+
+
+
+
+    }
     public enum StatusResult
     {
         Falid,

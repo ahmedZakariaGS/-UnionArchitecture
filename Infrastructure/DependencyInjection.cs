@@ -13,6 +13,9 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Infrastructure.Repositories.Base;
 using DbContext = Microsoft.EntityFrameworkCore.DbContext;
+using Application.Shared.Models;
+using System.Configuration;
+using Application.Interfaces.HelperService;
 
 namespace Application
 {
@@ -35,6 +38,10 @@ namespace Application
                    builder => builder.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName)));
 
 
+            var applicationSetting = configuration.GetSection("ApplicationSetting");
+            services.Configure<ApplicationSetup>(applicationSetting);
+
+
 
         }
         private static void AddRepositories(this IServiceCollection services)
@@ -43,6 +50,8 @@ namespace Application
 
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddScoped<DbContext, ApplicationDbContext>();
+            services.AddScoped<IHelperService, HelperService>();
+
 
             services
           .AddTransient(typeof(IUnitOfWork), typeof(UnitOfWork))

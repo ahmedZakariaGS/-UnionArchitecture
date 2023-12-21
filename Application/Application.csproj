@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Behaviour\" />
-    <Folder Include="Interfaces\Services\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -22,6 +21,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Design" Version="1.1.6" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
   <ItemGroup>

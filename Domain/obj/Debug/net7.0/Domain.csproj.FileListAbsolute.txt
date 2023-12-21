@@ -1,4 +1,3 @@
-C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
 C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
 C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Domain\obj\Debug\net7.0\Domain
 C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Domain\obj\Debug\net7.0\refint\Domain.dll
 C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Domain\obj\Debug\net7.0\Domain.pdb
 C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Domain\obj\Debug\net7.0\Domain.sourcelink.json

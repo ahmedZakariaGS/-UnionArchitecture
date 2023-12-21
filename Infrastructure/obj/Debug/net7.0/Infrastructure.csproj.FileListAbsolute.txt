@@ -17,3 +17,4 @@ C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Infrastructure\obj\Debug\net7.
 C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
 C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Infrastructure\obj\Debug\net7.0\Infrastructure.sourcelink.json

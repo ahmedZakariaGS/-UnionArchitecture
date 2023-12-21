@@ -15,3 +15,4 @@ C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Application\obj\Debug\net7.0\r
 C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Application\obj\Debug\net7.0\Application.pdb
 C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Application\obj\Debug\net7.0\Application.genruntimeconfig.cache
 C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Application\obj\Debug\net7.0\Application.sourcelink.json

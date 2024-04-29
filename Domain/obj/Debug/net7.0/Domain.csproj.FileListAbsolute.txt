@@ -10,3 +10,15 @@ C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Domain\obj\Debug\net7.0\refint
 C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Domain\obj\Debug\net7.0\Domain.pdb
 C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Domain\obj\Debug\net7.0\ref\Domain.dll
 C:\Zakaria Data\P1\2023\Backend\UnionArchitecture\Domain\obj\Debug\net7.0\Domain.sourcelink.json
+D:\documents\GEO\-UnionArchitecture\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\documents\GEO\-UnionArchitecture\Domain\bin\Debug\net7.0\Domain.dll
+D:\documents\GEO\-UnionArchitecture\Domain\bin\Debug\net7.0\Domain.pdb
+D:\documents\GEO\-UnionArchitecture\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\documents\GEO\-UnionArchitecture\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\documents\GEO\-UnionArchitecture\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\documents\GEO\-UnionArchitecture\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\documents\GEO\-UnionArchitecture\Domain\obj\Debug\net7.0\Domain.sourcelink.json
+D:\documents\GEO\-UnionArchitecture\Domain\obj\Debug\net7.0\Domain.dll
+D:\documents\GEO\-UnionArchitecture\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\documents\GEO\-UnionArchitecture\Domain\obj\Debug\net7.0\Domain.pdb
+D:\documents\GEO\-UnionArchitecture\Domain\obj\Debug\net7.0\ref\Domain.dll

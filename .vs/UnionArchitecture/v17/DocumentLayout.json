@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\documents\\GEO\\-UnionArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87CBFF46-334F-4731-BA43-E72E5F1D5AD9}|App-API\\AppApi.csproj|d:\\documents\\geo\\-unionarchitecture\\app-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87CBFF46-334F-4731-BA43-E72E5F1D5AD9}|App-API\\AppApi.csproj|solutionrelative:app-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CBFF46-334F-4731-BA43-E72E5F1D5AD9}|App-API\\AppApi.csproj|d:\\documents\\geo\\-unionarchitecture\\app-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CBFF46-334F-4731-BA43-E72E5F1D5AD9}|App-API\\AppApi.csproj|solutionrelative:app-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CBFF46-334F-4731-BA43-E72E5F1D5AD9}|App-API\\AppApi.csproj|d:\\documents\\geo\\-unionarchitecture\\app-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87CBFF46-334F-4731-BA43-E72E5F1D5AD9}|App-API\\AppApi.csproj|solutionrelative:app-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CBFF46-334F-4731-BA43-E72E5F1D5AD9}|App-API\\AppApi.csproj|d:\\documents\\geo\\-unionarchitecture\\app-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87CBFF46-334F-4731-BA43-E72E5F1D5AD9}|App-API\\AppApi.csproj|solutionrelative:app-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\documents\\GEO\\-UnionArchitecture\\App-API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "App-API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\documents\\GEO\\-UnionArchitecture\\App-API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "App-API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T12:38:22.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\documents\\GEO\\-UnionArchitecture\\App-API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "App-API\\appsettings.Development.json",
+              "ToolTip": "D:\\documents\\GEO\\-UnionArchitecture\\App-API\\appsettings.Development.json",
+              "RelativeToolTip": "App-API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T12:33:54.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\documents\\GEO\\-UnionArchitecture\\App-API\\appsettings.json",
+              "RelativeDocumentMoniker": "App-API\\appsettings.json",
+              "ToolTip": "D:\\documents\\GEO\\-UnionArchitecture\\App-API\\appsettings.json",
+              "RelativeToolTip": "App-API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T12:33:45.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\documents\\GEO\\-UnionArchitecture\\App-API\\Program.cs",
+              "RelativeDocumentMoniker": "App-API\\Program.cs",
+              "ToolTip": "D:\\documents\\GEO\\-UnionArchitecture\\App-API\\Program.cs",
+              "RelativeToolTip": "App-API\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:33:11.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "n/SN7jooMKisLama7rsiF/93Jk/RyZ/PG6SrJa5vkzfZ86FZF7oFD4v2X8iNVsbnWubUKEU42hvqW0C72BKj0g==",
+  "dgSpecHash": "pz75FEuFr5JVzPbHZ6VvfKr2aOOo75pcgSJrHGay1eA1GHbewG0wx5Bw2TfbkTxrNCi3Zgub1NL1fT9535AQjA==",
   "success": true,
   "projectFilePath": "D:\\documents\\GEO\\-UnionArchitecture\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\CM\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\CM\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.1\\fluentvalidation.dependencyinjectionextensions.11.9.1.nupkg.sha512",
+    "C:\\Users\\CM\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

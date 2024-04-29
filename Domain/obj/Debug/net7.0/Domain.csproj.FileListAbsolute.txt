@@ -22,3 +22,4 @@ D:\documents\GEO\-UnionArchitecture\Domain\obj\Debug\net7.0\Domain.dll
 D:\documents\GEO\-UnionArchitecture\Domain\obj\Debug\net7.0\refint\Domain.dll
 D:\documents\GEO\-UnionArchitecture\Domain\obj\Debug\net7.0\Domain.pdb
 D:\documents\GEO\-UnionArchitecture\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\documents\GEO\-UnionArchitecture\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache

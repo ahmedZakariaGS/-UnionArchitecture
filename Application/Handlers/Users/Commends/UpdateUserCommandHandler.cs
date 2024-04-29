@@ -34,14 +34,14 @@ namespace Application.Handlers.Users.Commends
         {
 
             var recordExist = await unitOfWork.Repository<User>().
-                            FindByCondition(e => e.Id==request.Id)
+                            FindByCondition(e => e.Id == request.Id)
                             .FirstOrDefaultAsync();
 
             var result = Result.Failure(StatusResult.NotExists);
             if (recordExist != null)
             {
                 //1) Delete recordExist
-                recordExist.Name=request.Name;
+                recordExist.Name = request.Name;
                 unitOfWork.Repository<User>().Update(recordExist);
 
                 //2) CompleteAsync
@@ -52,6 +52,6 @@ namespace Application.Handlers.Users.Commends
 
             return result;
         }
-      
+
     }
 }

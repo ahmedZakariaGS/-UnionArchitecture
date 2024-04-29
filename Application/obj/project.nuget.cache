@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FLY0M6MoVD2TP596LIdl37to+E+w6tE0LLrfySORXYoQzwPe8Szseqp6d41Jvlz6avzEvcRJU4WCvYzz0d+Ocw==",
+  "dgSpecHash": "XMajvGA0JteAFKVbJxrU3sc1JLsN3EDurqqupK06K7NBvMq3ZIu2hZtwXAS0QGgd7b92I76reSGv6rNjlNDJaQ==",
   "success": true,
   "projectFilePath": "D:\\documents\\GEO\\-UnionArchitecture\\Application\\Application.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,8 @@
     "C:\\Users\\CM\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\CM\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\CM\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\CM\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\CM\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.1\\fluentvalidation.dependencyinjectionextensions.11.9.1.nupkg.sha512",
     "C:\\Users\\CM\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\CM\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\CM\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.0\\microsoft.aspnetcore.cryptography.internal.7.0.0.nupkg.sha512",

@@ -1,21 +1,16 @@
-﻿using Application.Interfaces.Repositories.Base;
+﻿using Application.Interfaces.HelperService;
+using Application.Interfaces.Repositories.Base;
+using Application.Shared.Models;
+using FluentValidation;
+using Infrastructure.Repositories.Base;
 using MediatR;
 using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Persistence.Contexts;
-using System;
-using System.Collections.Generic;
-using System.Data.Entity;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
-using Infrastructure.Repositories.Base;
+using System.Reflection;
 using DbContext = Microsoft.EntityFrameworkCore.DbContext;
-using Application.Shared.Models;
-using System.Configuration;
-using Application.Interfaces.HelperService;
 
 namespace Application
 {
@@ -24,7 +19,7 @@ namespace Application
         public static IServiceCollection AddInfrastructureServices(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddDbContext(configuration);
-             services.AddRepositories();
+            services.AddRepositories();
             services.AddServices();
 
             return services;
@@ -42,11 +37,15 @@ namespace Application
             services.Configure<ApplicationSetup>(applicationSetting);
 
 
+            //Validators
+            services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
+
+
 
         }
         private static void AddRepositories(this IServiceCollection services)
         {
-   
+
 
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddScoped<DbContext, ApplicationDbContext>();
@@ -60,7 +59,7 @@ namespace Application
         private static void AddServices(this IServiceCollection services)
         {
             services.AddTransient<IMediator, Mediator>();
-     
+
 
         }
 

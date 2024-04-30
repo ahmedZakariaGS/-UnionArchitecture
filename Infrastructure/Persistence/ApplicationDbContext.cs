@@ -2,18 +2,19 @@
 using Application.Interfaces.Repositories.Base;
 using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
- 
+
 namespace Persistence.Contexts
 {
     public partial class ApplicationDbContext : DbContext, IDbContext
     {
         public virtual DbSet<User> users { get; set; }
-  
-       
-  
+        public virtual DbSet<Student> Students { get; set; }
+
+
+
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
 
-      
+
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
